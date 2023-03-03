@@ -1,7 +1,8 @@
-# -Grocery-Store-Analysis
+# - Description
+Grocery-Store-Analysis
 Grocery Store Analysis With Excel
 
-
+# -Setup
 Add Power Pivot to your Menu bar
 Click on Manage 
 Create a data model and establish a relationship with the three files.
@@ -11,5 +12,8 @@ On the next page, click on browse to choose you file.
 Get the Customer file data and check Use first row as column headers. Click on Finish.
 To bring the two other files, repeat the steps above to bring in both the Order and Cookie Type files.
 
+# -App Execution
+Download Microsoft Excel version 2016+
 # -Author
 David Kojo Kenyarko
+
